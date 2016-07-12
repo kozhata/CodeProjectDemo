@@ -1,0 +1,4 @@
+2016-05-19 21:01:05,088 [10] ERROR Logger [(null)] - 
+System.Exception: Exception of type 'System.Exception' was thrown.
+2016-05-19 21:09:11,022 [5] ERROR Logger [(null)] - 
+System.Exception: Exception of type 'System.Exception' was thrown.
